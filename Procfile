@@ -1,1 +1,1 @@
-web: java -cp target/classes/:target/dependency/* com.br.casadocodigo.casadocodigo
+web: java -cp target/classes/:target/dependency/* com.br.casadocodigo.casadocodigo.CasadocodigoApplication
